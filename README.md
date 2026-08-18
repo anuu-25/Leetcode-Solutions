@@ -8,11 +8,13 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 ## Sorting
 |  |
