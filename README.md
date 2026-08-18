@@ -5,4 +5,24 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
