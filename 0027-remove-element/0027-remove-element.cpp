@@ -10,6 +10,7 @@ public:
                     
                 }
         }
+        nums.resize(k);
         return k;
     }
 };
