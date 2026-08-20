@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0009-palindrome-number](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Array
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -24,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -36,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/anuu-25/Leetcode-Solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
